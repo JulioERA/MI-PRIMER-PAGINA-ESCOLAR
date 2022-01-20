@@ -1,0 +1,8 @@
+.cuerpo{
+    color:white;
+    background: linear-gradient(to bottom, blue, rgb(102, 4, 141));
+}
+
+td,th,a {
+    color:white;
+}
